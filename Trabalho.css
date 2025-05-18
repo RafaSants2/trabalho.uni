@@ -1,0 +1,104 @@
+h1{color: #7c7c76; 
+    font-size: 35px; 
+    text-align: center;
+    position: relative;
+    top: 30px;
+    -webkit-text-stroke:1.2px black;
+}
+
+body{
+    background-color: #bcd8f0
+}
+
+.bio1{
+    top: 16px;
+    position: relative;
+    font-size: 27px;
+}
+.bio2{
+    font-size: 27px;
+    position: relative;
+    top: 20px;
+}
+.bio3{
+    font-size: 27px;
+    text-align: center;
+    bottom: 360px;
+    position: relative;
+    font-family:monospace
+}
+
+.paragrafo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+}
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+#mensagem {
+    color: rgb(32, 114, 56);
+    font-size: 18px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li{
+    margin-bottom: 10px;
+    position: relative;
+    font-size: 20px;
+    right: 8px;
+    top: 7px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 300px;
+}
+
+table{
+    border-collapse: collapse;
+    position: relative;
+    bottom: 343px;
+    border: 2px solid #dd6a6a;
+    box-shadow: 0 0 10px rgba (0, 0, 0, 0.1);
+    background-color: #f7e6e6;
+}
+
+caption{
+    font-size: 22px;
+    font-weight: bold;
+    bottom: 7px;
+    position: relative;
+}
+
+img{
+    width: 98px;
+    height: auto;
+    border-radius: 8px;
+}
+
+td{
+    border: 1px solid #dd6a6a;
+    padding: 12px;
+    font-size: 18px;
+    vertical-align: middle;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.paragrafoLink{
+    position: relative;
+    bottom: 333px;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a:hover{
+    color: red
+}
